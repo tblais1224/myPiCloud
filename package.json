@@ -1,0 +1,19 @@
+{
+  "name": "mypicloud",
+  "version": "1.0.0",
+  "description": "This project will include hosting a web application for cloud storage and save data logger capabilities using a raspberry pi 3 model B+, JavaScript, HTML, CSS and express. The cloud will be password protected and google authenticated. The web application will also have a program that will run alongside your IDE and use a partition of cloud storage for a save log. The log will be able to have customized size limit and will delete saves as the data size limit is reached to make room for new saves. The UI will have an easy access and view system that will allow you to select recent saves to open.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tblais1224/myPiCloud.git"
+  },
+  "author": "tblais1224",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tblais1224/myPiCloud/issues"
+  },
+  "homepage": "https://github.com/tblais1224/myPiCloud#readme"
+}
